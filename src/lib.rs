@@ -2,7 +2,7 @@
 /// 
 /// #Example
 /// ```
-/// let sum = test_study::cargo cadd(2, 2);
+/// let sum = test_study::add(2, 2);
 /// assert_eq!(sum, 4);
 /// ```
 /// # panics
