@@ -1,0 +1,1 @@
+一个简单的尝试通过 github actions 自动更新 crate
